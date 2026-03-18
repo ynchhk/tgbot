@@ -1,8 +1,4 @@
-“””
-Бот для подготовки к военной кафедре
-Установка: pip install python-telegram-bot
-Запуск:    python bot.py
-“””
+
 
 import json
 import os
