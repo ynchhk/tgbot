@@ -1,5 +1,3 @@
-
-
 import json
 import os
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
@@ -8,7 +6,7 @@ Application, CommandHandler, CallbackQueryHandler,
 MessageHandler, filters, ContextTypes, ConversationHandler
 )
 
-TOKEN = “8697824599:AAEgfFaMO2HmpLB4MZNDwggtVc2oVi7lmrI”  # Получить у @BotFather в Telegram
+TOKEN = “8697824599:AAFBD2Cb02ztkbCXYYq5NdakFLh-mKR688g”
 
 # ── ДАННЫЕ ПЛАНА ─────────────────────────────────────────────────────────────
 
