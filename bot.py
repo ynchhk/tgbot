@@ -6,7 +6,7 @@ from telegram.ext import (
     MessageHandler, filters, ContextTypes, ConversationHandler
 )
 
-TOKEN = "8697824599:AAFBD2Cb02ztkbCXYYq5NdakFLh-mKR688g"
+TOKEN = "8697824599:AAFs-XU5bL2HCeZr7pLSoxxKVoDuYHuxclI"
 
 # ── ДАННЫЕ ПЛАНА ─────────────────────────────────────────────────────────────
 
